@@ -1,13 +1,13 @@
 {
     "url":  "https://raw.githubusercontent.com/udayofficialpublic/billingtastydining-download/main/windows/pos-billing-saas-setup.exe",
-    "fileSizeBytes":  14708876,
-    "publishedAt":  "2026-10-22T19:26:31Z",
+    "fileSizeBytes":  14736707,
+    "publishedAt":  "2026-10-28T20:04:16Z",
     "platform":  "windows",
-    "version":  "1.0.4",
-    "latestVersion":  "1.0.4",
+    "version":  "1.0.5",
+    "latestVersion":  "1.0.5",
     "mandatory":  false,
     "apkUrl":  "https://raw.githubusercontent.com/udayofficialpublic/billingtastydining-download/main/windows/pos-billing-saas-setup.exe",
-    "sha256":  "95acdb3ec33cacb6325fbeaf52598e28a98c1f001321d166c6d7a1b6bbe5be7f",
-    "releaseNotes":  "Tasty Dining POS \u0026 Billing SaaS Windows Release v1.0.4",
+    "sha256":  "4b0d7fd50d8b9fd9596fff3e64209aa30a8207b910723831773df7be38c8b3b5",
+    "releaseNotes":  "Tasty Dining POS \u0026 Billing SaaS Windows Release v1.0.5",
     "minimumVersion":  "1.0.0"
 }
